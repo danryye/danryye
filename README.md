@@ -1,4 +1,40 @@
-### Hi there 👋
+<h1>Hi, I'm Danry!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- <b>Active Directory Lab</b>
+  - [Active Directory Home Lab Setup](https://github.com/danryye/ActiveDirectoryLab)
+- <b>Java</b>
+  - [Builder Design Pattern - Order Builder Example](https://github.com/danryye/Builder-Design-Pattern-Order-Builder-Example-)
+  - [Image Processing Demo](https://github.com/danryye/Image-Processing)
+  - [Weather App WIP](https://github.com/danryye/Weather-App)
+- <b>Python</b>
+  - [Conway's Game of Life Simulation](https://github.com/danryye/Conway-s-Game-of-Life-Simulation)
+  - [Monte Carlos Simulation - Birthday Paradox](https://github.com/danryye/Monte-Carlos-Simulation---Birthday-Paradox)
+  - [Workbook Module Demo](https://github.com/danryye/Workbook-Demo)
+
+<h2>📋 Certifications</h2>
+
+- [System Administration and IT Infrastructure Services](https://coursera.org/share/52a7cb2810f4c319e998d913cbae6892)
+- [Operating Systems and You: Becoming a Power User](https://coursera.org/share/908f4e6a7dd8cece5628170f565ce0e5)
+- [The Bits and Bytes of Computer Networking](https://coursera.org/share/7df4668784af8e88ed757b7f84d72aa4)
+- [Technical Support Fundamentals](https://coursera.org/share/c8b49707446726cb7872121b90419185)
+
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **danryye/danryye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
